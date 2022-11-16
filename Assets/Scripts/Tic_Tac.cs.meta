@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 17e5d234696d9394a9899cc37ee86387
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - field0: {fileID: 919132149155446097, guid: e794f047eefd76e43809e57db2c00132, type: 3}
+  - field1: {fileID: 919132149155446097, guid: f8b53ef7017292f4888bb100744e070d, type: 3}
+  - field2: {fileID: 919132149155446097, guid: 364d725c458da94498523efd85578f34, type: 3}
+  - field3: {fileID: 919132149155446097, guid: 0e1b27cacf0a46d489fa095fb8618d9c, type: 3}
+  - field4: {fileID: 919132149155446097, guid: 89ebcf1d81ed25c4c8518cd1491334ea, type: 3}
+  - field5: {fileID: 919132149155446097, guid: 052ce13425bc11f48a865a3d6a857fd3, type: 3}
+  - field6: {fileID: 919132149155446097, guid: 2dab148641338a84a8ca66e4bd576f9d, type: 3}
+  - field7: {fileID: 919132149155446097, guid: de323b660adb2d049a819e98289c3ed2, type: 3}
+  - field8: {fileID: 919132149155446097, guid: 3c8934c7e0f653940b60edd565fb5206, type: 3}
+  - X: {fileID: 919132149155446097, guid: d0dbe606431ce484dae30628b1b50dd0, type: 3}
+  - Zero: {fileID: 919132149155446097, guid: 7b84bb892e1623240b5e74e3b949e0f9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
